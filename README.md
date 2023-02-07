@@ -22,3 +22,7 @@ Material de estudos práticos do Programa ONE da Oracle
 * Métodos de leitura dos atributos, os getters.
 * Métodos de modificação dos atributos, os setters. 
 * Getters e Setters de referência.
+
+* Construtores são utilizados para inicialização dos atributos.
+* Atributos da classe, os atributos estáticos.
+* Métodos da classe, os métodos estáticos.
