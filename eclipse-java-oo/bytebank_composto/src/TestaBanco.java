@@ -15,5 +15,4 @@ public class TestaBanco {
 		System.out.println(contaDoPaulo.titular);
 		System.out.println(paulo);
 	}
-
 }

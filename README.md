@@ -14,3 +14,11 @@ Material de estudos práticos do Programa ONE da Oracle
 * Método: chamar um método com Java nomeDaReferencia.nomeDoMetodo();
 
 * Eclipse: manter pressionado atalho "Ctrl", transforma muitos elementos em links, ao clicarmos em um dos links, seremos transportados para o código referente ao método ou classe que estamos acionando.
+
+* Eclipe: Source -> Generate Getters and Setters -> Select getters and setters to create.
+
+* Atributos privados, restringindo o acesso aos atributos.
+* Encapsulamento de código.
+* Métodos de leitura dos atributos, os getters.
+* Métodos de modificação dos atributos, os setters. 
+* Getters e Setters de referência.
